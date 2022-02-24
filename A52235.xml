@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Tybourn: or, The confession and execution of the three bayliffs and the rest of the malefactors that died with them And also a true account of their deportment bfore [sic] several godly ministers in Newgate who came to visit them there. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52235</idno>
+            <idno type="STC">Wing N1026</idno>
+            <idno type="STC">ESTC R218653</idno>
+            <idno type="EEBO-CITATION">99830226</idno>
+            <idno type="PROQUEST">99830226</idno>
+            <idno type="VID">34676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34676)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2035:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Tybourn: or, The confession and execution of the three bayliffs and the rest of the malefactors that died with them And also a true account of their deportment bfore [sic] several godly ministers in Newgate who came to visit them there. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: A true account of the several malefactors that received sentence of death the last sessions at Justice-hall in the Old-bayly.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1660-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34676:1"/>
+            <!-- PDF PAGE 28 -->
+            <pb facs="tcp:34676:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <p>NEWS FROM TYBOURN: OR, THE CONFESSION AND EXECUTION OF THE Three Bayliffs And the reſt of the MALEFACTORS that Died with them.</p>
+            <p>And alſo a true account of their deportment bfore ſeveral Godly Miniſters in NEWGATE Who came to viſit them there.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> 1675.</p>
+            <pb facs="tcp:34676:2"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:34676:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34676:3"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="3" facs="tcp:34676:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <head>A true Account of ſeveral Malefactors that received ſentence of Death the laſt Seſſions at Juſtice-hall in the <hi>Old-bayly.</hi>
+            </head>
+            <p>THe pleaſures of ſin are but for a ſea<g ref="char:EOLhyphen"/>ſon; and after ſome numbers of years ſpent in lewd and diſſolute Courſes, the time of Reckoning comes, and the ſecure ſinner is call'd to an unthought-of account for his paſt Crimes; how quick and ſudden then, though ſad and gloomy, are the periods and diſpatches of that poor life, that muſt terminate in a deſerv'd pu<g ref="char:EOLhyphen"/>niſhment! To the end therefore that the Looſer ſort of people may beware by the dreadful Ex<g ref="char:EOLhyphen"/>amples of theſe that have already deſervedly ſuffer'd, let them take this following account of their Confeſſions in Newgate.</p>
+            <p>
+               <hi>J. W.</hi> for Burglary and Felony, for ſtealing ſe<g ref="char:EOLhyphen"/>ven pieces of Broad cloth, which were all found in his Chamber. The hainouſneſs of his Crime was Burglary, upon which, if there were not a ſtrict hand of Juſtice, no perſon could be ſafe in his Dwelling: As he was in the flower of his Youth, a better fate might have attended him; but his own was ſo great, that he could not be pardoned. He confeſſed the lewdneſs of his
+<pb n="4" facs="tcp:34676:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 31 -->Youth, that he had been bred to a good Trade; but Vanity and ill Company overcoming him, had brought him to that evil End. He took very patiently the Exhortations of the Miniſters that viſited him, and ſhewed very great marks of Penitence at his death, deſiring all the ſtan<g ref="char:EOLunhyphen"/>ders by to pray for him.</p>
+            <p>
+               <hi>L. O.</hi> and <hi>L. T.</hi> for breaking into a houſe at <hi>Kentiſh town,</hi> and Feloniouſly taking away ſe<g ref="char:EOLhyphen"/>veral pieces of Cloth. The Crime which theſe committed was the ſame with the former: but as they had been longer at the trade, ſo theſe were the more hardned; the former being of a good Family, had drawn on the latter to his Confederate. As they had been accuſtomed to lewd Courſes, they were the more hardened in their ends; neither is it poſſible that without erring from the Truth, that we ſhould give a good accoount of all that die for their Crimes. However, they ſeem'd to be both very penitent all the time they were in Priſon, and is hoped continued ſo to the laſt; the former of them two had a great Love, and that for the Maintenance of the Mother and the Child he took theſe evil Courſes, his idleneſs not permitting him to take any better. He deſires his Friends to ſee her and bid her be careful of the Infant, and to betake her ſelf to ſome honeſt Labour, wherein ſhe would finde more comfort than in thoſe ways to which the Trade ſeduced him. Of the latter, we can onely ſay, that he continued with that ſeeming repentance which was moſt ſuitable for a dying Man.</p>
+            <p>
+               <pb n="5" facs="tcp:34676:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 31 -->
+               <hi>J. D. R. O.</hi> and <hi>W. N.</hi> for committing a Mur<g ref="char:EOLhyphen"/>ther upon <hi>Richard Allen</hi> a Sea Chyrurgeon; as there is no Crime in the world that cries louder to Heaven than the ſin of Murther, ſo had theſe the horrour of it in their Conſcience. The E<g ref="char:EOLhyphen"/>vidence at their Tryals was plain, which made their Condemnation eaſily follow; but though they could not make ſatisfaction to the party ſlain, they did their endeavour to ſatisfie Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>During their continuance in Newgate, they were viſited by ſeveral Miniſters, who with moſt pathetical Exhortations laid before them the Hainouſneſs of their Offences, adviſing them to repent, for that it was high time, they being up<g ref="char:EOLhyphen"/>on the very brink of Eternity.</p>
+            <p>They remembred them of the ſad condition they were in, as being doomed to die by the ſe<g ref="char:EOLhyphen"/>vere Sentence of Juſtice; that there was no hopes of longer life in this world, yet that there was a means left to ſerve them an Everlaſting life in the next, and that it was an unſpeakable Mercy that they had ſo much time ſpar'd them to make their peace with Heaven.</p>
+            <p>Theſe pious Exhortations wrought much up<g ref="char:EOLhyphen"/>on <hi>R. O.</hi> and he continued very penitent con<g ref="char:EOLhyphen"/>feſſing that he was as free to dye as to live, were it not for his wife and Children, lamenting more them, that they ſhould be the offspring of ſuch a Parent, deſiring his friends to take care ſo to In<g ref="char:EOLhyphen"/>ſtruct them, that their Fathers end might not hereafter be a reproach to them.</p>
+            <p>
+               <pb n="6" facs="tcp:34676:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->
+               <hi>J. D.</hi> Confeſſed the ſin ulneſs of his Life, but more particularly bewayl'd hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſin of Sa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th<g ref="char:EOLhyphen"/>breaking, of which he had been very Guilty, that he had been no leſs a prophane heare<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he was deeply ſenſible of the Injury he had done the perſon, whoſe Life he had taken away; and was willing to ſatisfy blood for blood, ſince no other ſatisfaction could be given.</p>
+            <p>
+               <hi>W. N.</hi> Confeſſed that he had been a great oppreſſor of the poor in his Office, whom he had very much wronged by Extortion. That he had been a very great ſcoffer at the miſcarria<g ref="char:EOLhyphen"/>ges of other men, and too much Guilty of that huffing pride and inſolency, which is too com<g ref="char:EOLhyphen"/>mon among men of their Condition, he exhort<g ref="char:EOLhyphen"/>ed therefore all thoſe that had the ſame Imploy<g ref="char:EOLhyphen"/>ment to take warning by him, not to exceed the b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unds of Mercy, nor to ſtand upon the utmoſt points of Rigour and Juſtice but above all to beware of being falſe to their truſts and of ex<g ref="char:EOLhyphen"/>tortion, by which he had undone many poor peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Yet as mercy is not denyed the worſt of ſin<g ref="char:EOLhyphen"/>ners, they went not without hopes of mercy to the place of Execution, being all extreamly penitent and freely reſigning themſelves into the hand of Juſtice.</p>
+            <p>
+               <hi>J. D.</hi> a little boy about 14 years of age, for murthering a Citizen and Silk man in Milk-ſtreet, which he confeſſed: Young in years but old in wickedneſs: yet had he been older he could not have been more ſenſible of his fact, nor more ap<g ref="char:EOLhyphen"/>prehenſive
+<pb n="7" facs="tcp:34676:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->of his approaching death, nothing more troubled him in the Priſon, than that he was ſo dye ſo early, and that he had ſo ſoon im<g ref="char:EOLhyphen"/>bru'd his hands in blood, this youth had not ma<g ref="char:EOLhyphen"/>ny words to expreſs himſelf, but he ſupply'd that defect with his tears, weeping continually, eſpecially when his friends or the Miniſter came to prepare him for another Life, to whom he wept bitterly, acknowledging the ſmall Follies that his you<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h had been guilty of, more eſpeci<g ref="char:EOLhyphen"/>ally, he confeſſed to his Father how he had been uſed to ſpend his mony at play with his Compa<g ref="char:EOLhyphen"/>nions, when he was ſent to receive any parcel of mony: and that he had ſeveral times taken his mony for that purpoſe, his carriage to his death was the ſame, though not with any great prepa<g ref="char:EOLhyphen"/>ration, which could not be expected from his years.</p>
+            <p>
+               <hi>G. F.</hi> for robbing upon the High way, and firing a Piſtol at a Watch man, when he was ta<g ref="char:EOLhyphen"/>kens which did no execution, he afterwards threw the Piſtol away; but the Robbery being prov'd, and for ſeveral other faults he was condemned to die. He was a ſtout Robber, and as he had committed many Crimes, which deſerv'd the ut<g ref="char:EOLhyphen"/>moſt ſeverity of the Law, he ſhewed no great Re<g ref="char:EOLhyphen"/>morſe, neither at his Tryal nor at his death.</p>
+            <p>
+               <hi>W. V.</hi> was taken with a bag of Gilts about him, which are great and ſmall Picklock-keyes and other Inſtruments fit for that purpoſe: the Fact being proved by a woman that came in a<g ref="char:EOLhyphen"/>gainſt him, that he was the man that broke open
+<pb n="8" facs="tcp:34676:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 33 -->her Cheſt, and had taken away a parcel of mo<g ref="char:EOLhyphen"/>ney to a conſiderable value; and he being burnt in the hand before and theſe Inſtruments being found about him, he was found guilty and con<g ref="char:EOLhyphen"/>demned to die. He robb'd the man at the Wool-ſack in <hi>Hounds-ditch,</hi> an Ale houſe kee<g ref="char:EOLhyphen"/>per, of twelve pounds in money, and two Silver<g ref="char:EOLhyphen"/>tankards, often frequenting the houſe, and ta<g ref="char:EOLhyphen"/>king an opportunity to ſlip into the man of the houſe his Bed chamber.</p>
+            <p>Another time he came into the Bull-head neer St. <hi>Dunſtan's</hi> church, called for a double Sil<g ref="char:EOLhyphen"/>ver Tankard of Ale, and when the Drawer was gone he threw the Drink in the Chimny and went away with the Tankard. He was a per<g ref="char:EOLhyphen"/>ſon of an obſcure Birth, and confeſſed himſelf to be a Thief, which was no more than was well known before.</p>
+            <p>
+               <hi>R. C.</hi> for Felony and Burglary committed by him and ſome others in <hi>White chappel,</hi> and others making their eſcape, and he onely taken; the Fact being proved againſt him, he is likewiſe to die. If it were true that he confeſſed he deſer<g ref="char:EOLhyphen"/>ved ſome pity, for he ſaid he had not been long at the trade, it being the third time that he had been an offender, though not taken till the third time; and it ſeems probably becauſe he was the onely perſon left in the lurch, he pretended that being a Button mould-maker, his Work-maſter broke, which drove him to neceſſity, that neceſ<g ref="char:EOLhyphen"/>ſity into ill Company, and ill Company to his untimely end; for which he was very penitent.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
